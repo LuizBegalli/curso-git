@@ -11,6 +11,7 @@ namespace ProjetoGIT
             Console.WriteLine("Hello Word!!");
             Console.WriteLine("Good Morning!!");
 
+            Console.ReadLine();
         }
 
     }
