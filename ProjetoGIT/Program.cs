@@ -9,6 +9,8 @@ namespace ProjetoGIT
         static void Main()
         {
             Console.WriteLine("Hello Word!!");
+            Console.WriteLine("Good Morning!!");
+
         }
 
     }
